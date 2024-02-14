@@ -2,10 +2,10 @@
 
 A few templates with the latest and greatest to get your started fast on your next React Native project, for Web & Mobile:
 - **Expo Router Templates:** 
-  - with NativeWind + RN Skia *(coming soon)*
-  - with NativeWind *(coming soon)*
-  - with RN Skia *(coming soon)*
-- [Expo Template w/ NativeWind & Storybook](https://github.com/kimchouard/expo-nativewind-storybook-template)
+  - with NativeWind: [expo-router-nativewind-template](https://github.com/kimchouard/expo-router-nativewind-template)
+  - with RN Skia: *(coming soon)*
+  - with NativeWind + RN Skia: *(coming soon)*
+- **Expo Template w/ NativeWind & Storybook:** [expo-nativewind-storybook-template](https://github.com/kimchouard/expo-nativewind-storybook-template)
 
 ---
 
